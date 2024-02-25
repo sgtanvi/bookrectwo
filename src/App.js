@@ -1,17 +1,12 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
-import BookSearch from './BookSearch';
+import BookSearch from './componets/BookSearch.js'; // Make sure to provide the correct path
 
 const App = () => {
   return (
-    <Router>
-      <div className="App">
-        <Switch>
-          <Route path="/booksearch" component={BookSearch} />
-          {/* Add other routes if needed */}
-        </Switch>
-      </div>
-    </Router>
+    <div className="App">
+      <h1>Book Search App</h1>
+      <BookSearch />
+    </div>
   );
 };
 
