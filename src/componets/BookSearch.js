@@ -5,26 +5,6 @@ import { saveAs } from 'file-saver';
 const BookSearch = () => {
   const [searchTerm, setSearchTerm] = useState('');
   const [searchResults, setSearchResults] = useState([]);
-  const [savedBooks, setSavedBooks] = useState([]); // Initialize with an empty array
-
-  // Move saveAsJson function outside of handleSearch
-  const saveAsJson = (book) => {
-    const newSavedBooks = [...savedBooks];
-
-    newSavedBooks.push({
-      put: `id:mynamespace:my_content::book-${newSavedBooks.length + 1}`, // Unique identifier
-      fields: {
-        author: book.author_name ? book.author_name.join(', ') : 'Unknown Author',
-        title: book.title,
-        genre: book.subject ? book.subject.join(', ') : 'Unknown Genre',
-        summary: book.first_publish_year
-          ? `First published in ${book.first_publish_year}`
-          : 'No summary available',
-      },
-    });
-
-    setSavedBooks(newSavedBooks);
-  };
 
   const handleSearch = async () => {
     try {
@@ -33,10 +13,17 @@ const BookSearch = () => {
       );
       setSearchResults(response.data.docs);
 
-      // Save all 20 books as JSON
-      response.data.docs.forEach((book) => {
-        saveAsJson(book);
-      });
+      const savedBooks = response.data.docs.map((book, index) => ({
+        put: `id:mynamespace:my_content::book-${index + 1}`,
+        fields: {
+          author: book.author_name ? book.author_name.join(', ') : 'Unknown Author',
+          title: book.title,
+          genre: book.subject ? book.subject.join(', ') : 'Unknown Genre',
+          summary: book.first_publish_year
+            ? `First published in ${book.first_publish_year}`
+            : 'No summary available',
+        },
+      }));
 
       const jsonContent = JSON.stringify(savedBooks, null, 2);
       const blob = new Blob([jsonContent], { type: 'application/json' });
