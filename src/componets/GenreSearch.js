@@ -10,17 +10,16 @@ const GenreSearch = () => {
     try {
       const response = await axios.get(
         `https://openlibrary.org/subjects/${encodeURIComponent(searchTerm)}.json?details=true`
-      );
+      );    
 
       setSearchResults(response.data.works);
 
       const savedBooks = response.data.works.map((work, index) => ({
-        put: `id:mynamespace:book::book-${index + 1}`,
+        put: `id:mynamespace:book::${work.key.replace('/works/', '')}`,
         fields: {
           author: work.authors ? work.authors.map((author) => author.name).join(', ') : 'Unknown Author',
           title: work.title,
           genre: response.data.name || 'Unknown Genre', // Use the subject name as the genre
-          tags: work.subjects ? work.subjects.map((subject) => subject.name).join(', ') : 'Unknown Genre',
           digest: work.first_publish_year
             ? `First published in ${work.first_publish_year}`
             : 'No summary available',

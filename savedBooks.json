@@ -1,0 +1,1054 @@
+{
+    "put": "id:mynamespace:book::OL82586W",
+    "fields": {
+      "author": "J. K. Rowling",
+      "title": "Harry Potter and the Deathly Hallows",
+      "genre": "Action",
+      "digest": "First published in 2007"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL1418089W",
+    "fields": {
+      "author": "Edgar Rice Burroughs, Casper Van Dien, Franke, Henry G., 3rd, Joe Jusko",
+      "title": "Tarzan the Invincible (Ace Classic SF, F-189)",
+      "genre": "Action",
+      "digest": "First published in 1931"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL265501W",
+    "fields": {
+      "author": "Erin Hunter",
+      "title": "Into the Wild",
+      "genre": "Action",
+      "digest": "First published in 2003"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL15936512W",
+    "fields": {
+      "author": "Ernest Cline, Arnaud Regnauld",
+      "title": "Ready Player One",
+      "genre": "Action",
+      "digest": "First published in 2008"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL3739416W",
+    "fields": {
+      "author": "James Oliver Curwood",
+      "title": "The Honor of the Big Snows",
+      "genre": "Action",
+      "digest": "First published in 1911"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL17181541W",
+    "fields": {
+      "author": "Rick Riordan",
+      "title": "The Sword of Summer",
+      "genre": "Action",
+      "digest": "First published in 2015"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL16817176W",
+    "fields": {
+      "author": "Clive Cussler, Mark Graham Brown, Graham Brown",
+      "title": "Ghost Ship",
+      "genre": "Action",
+      "digest": "First published in 2014"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL4906729W",
+    "fields": {
+      "author": "Frank Yerby",
+      "title": "Floodtide",
+      "genre": "Action",
+      "digest": "First published in 1950"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL5734768W",
+    "fields": {
+      "author": "Steven Erikson",
+      "title": "Toll the hounds",
+      "genre": "Action",
+      "digest": "First published in 2008"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL15367527W",
+    "fields": {
+      "author": "Adam Jay Epstein, Andrew Jacobson",
+      "title": "The Familiars",
+      "genre": "Action",
+      "digest": "First published in 2010"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL82309W",
+    "fields": {
+      "author": "Matthew Reilly",
+      "title": "Ice Station",
+      "genre": "Action",
+      "digest": "First published in 1999"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL17351698W",
+    "fields": {
+      "author": "Brandon Mull",
+      "title": "Crystal Keepers",
+      "genre": "Action",
+      "digest": "First published in 2001"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL20600W",
+    "fields": {
+      "author": "Jonathan Swift",
+      "title": "Gulliver's Travels",
+      "genre": "Adventure",
+      "digest": "First published in 1726"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL61981W",
+    "fields": {
+      "author": "Όμηρος",
+      "title": "The Iliad of Homer",
+      "genre": "Adventure",
+      "digest": "First published in 1505"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL53919W",
+    "fields": {
+      "author": "Mark Twain",
+      "title": "The Adventures of Tom Sawyer",
+      "genre": "Adventure",
+      "digest": "First published in 1817"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL1253285W",
+    "fields": {
+      "author": "Emmuska Orczy, Baroness Orczy",
+      "title": "The Scarlet Pimpernel",
+      "genre": "Adventure",
+      "digest": "First published in 1900"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL10263W",
+    "fields": {
+      "author": "Antoine de Saint-Exupéry",
+      "title": "Le petit prince",
+      "genre": "Adventure",
+      "digest": "First published in 1943"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL24166W",
+    "fields": {
+      "author": "Robert Louis Stevenson",
+      "title": "Kidnapped",
+      "genre": "Adventure",
+      "digest": "First published in 1886"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL1099280W",
+    "fields": {
+      "author": "Jules Verne",
+      "title": "Vingt mille lieues sous les mers",
+      "genre": "Adventure",
+      "digest": "First published in 1870"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL54147W",
+    "fields": {
+      "author": "Mark Twain, Grover Gardner narrator",
+      "title": "Tom Sawyer, Detective",
+      "genre": "Adventure",
+      "digest": "First published in 1897"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL82537W",
+    "fields": {
+      "author": "J. K. Rowling",
+      "title": "Harry Potter and the Chamber of Secrets",
+      "genre": "Adventure",
+      "digest": "First published in 1900"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL82536W",
+    "fields": {
+      "author": "J. K. Rowling",
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "genre": "Adventure",
+      "digest": "First published in 1999"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL27516W",
+    "fields": {
+      "author": "J.R.R. Tolkien",
+      "title": "The Return of the King",
+      "genre": "Adventure",
+      "digest": "First published in 1950"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL455327W",
+    "fields": {
+      "author": "William Golding",
+      "title": "Lord of Flies",
+      "genre": "Adventure",
+      "digest": "First published in 1954"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL20600W",
+    "fields": {
+      "author": "Jonathan Swift",
+      "title": "Gulliver's Travels",
+      "genre": "Biography",
+      "digest": "First published in 1726"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL503666W",
+    "fields": {
+      "author": "Miguel de Cervantes Saavedra",
+      "title": "Don Quixote",
+      "genre": "Biography",
+      "digest": "First published in 1600"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL362702W",
+    "fields": {
+      "author": "William Shakespeare",
+      "title": "Julius Caesar",
+      "genre": "Biography",
+      "digest": "First published in 1684"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL107195W",
+    "fields": {
+      "author": "John Bunyan",
+      "title": "The Pilgrim's Progress",
+      "genre": "Biography",
+      "digest": "First published in 1678"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL86320W",
+    "fields": {
+      "author": "James Joyce",
+      "title": "Dubliners",
+      "genre": "Biography",
+      "digest": "First published in 1914"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL69181W",
+    "fields": {
+      "author": "Frederick Douglass",
+      "title": "Narrative of the life of Frederick Douglass, an American slave",
+      "genre": "Biography",
+      "digest": "First published in 1845"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL362706W",
+    "fields": {
+      "author": "William Shakespeare",
+      "title": "Sonnets",
+      "genre": "Biography",
+      "digest": "First published in 1609"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL1261147W",
+    "fields": {
+      "author": "Titus Livius",
+      "title": "Ab urbe condita",
+      "genre": "Biography",
+      "digest": "First published in 1481"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL260101W",
+    "fields": {
+      "author": "Anne Brontë",
+      "title": "The Tenant of Wildfell Hall",
+      "genre": "Biography",
+      "digest": "First published in 1847"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL16333W",
+    "fields": {
+      "author": "Walt Whitman",
+      "title": "Leaves of Grass",
+      "genre": "Biography",
+      "digest": "First published in 1855"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL361466W",
+    "fields": {
+      "author": "William Shakespeare",
+      "title": "King Henry V",
+      "genre": "Biography",
+      "digest": "First published in 1600"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL55649W",
+    "fields": {
+      "author": "Henry David Thoreau",
+      "title": "Walden",
+      "genre": "Biography",
+      "digest": "First published in 1854"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL15227626W",
+    "fields": {
+      "author": "Brothers Grimm",
+      "title": "Hänsel und Gretel",
+      "genre": "Fairytale",
+      "digest": "First published in 1900"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL5683495W",
+    "fields": {
+      "author": "Terry Brooks",
+      "title": "High Druid of Shannara",
+      "genre": "Fairytale",
+      "digest": "First published in 2003"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL4649310W",
+    "fields": {
+      "author": "Munro Leaf",
+      "title": "Noodle",
+      "genre": "Fairytale",
+      "digest": "First published in 1937"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL5922925W",
+    "fields": {
+      "author": "Vera Southgate, Ladybird Books Staff",
+      "title": "Sleeping Beauty",
+      "genre": "Fairytale",
+      "digest": "First published in 1965"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL5922884W",
+    "fields": {
+      "author": "Vera Southgate, Ladybird Books Staff",
+      "title": "Cinderella",
+      "genre": "Fairytale",
+      "digest": "First published in 1964"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL17575002W",
+    "fields": {
+      "author": "Anamaria Rose, Jerome Emanuel, Anamaria Rose",
+      "title": "The Princess and the Bubs",
+      "genre": "Fairytale",
+      "digest": "First published in 2016"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL104499W",
+    "fields": {
+      "author": "Sheri S. Tepper",
+      "title": "The Revenants",
+      "genre": "Fairytale",
+      "digest": "First published in 1984"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL568797W",
+    "fields": {
+      "author": "Cathy Hapka",
+      "title": "Walt Disney's Cinderella Party Clothes (A dress-up Book)",
+      "genre": "Fairytale",
+      "digest": "First published in 1997"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL17724522W",
+    "fields": {
+      "author": "Elliott James",
+      "title": "Legend Has It",
+      "genre": "Fairytale",
+      "digest": "First published in 2017"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL16219851W",
+    "fields": {
+      "author": "Ann Sophii",
+      "title": "IN DER FERNE EIN HIMMEL",
+      "genre": "Fairytale",
+      "digest": "First published in 2011"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL17783565W",
+    "fields": {
+      "author": "Jerome Emanuel",
+      "title": "Wendy the Wild Wolf",
+      "genre": "Fairytale",
+      "digest": "First published in 2017"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL18665793W",
+    "fields": {
+      "author": "Jerome Emanuel",
+      "title": "Wendy the Wild Wolf",
+      "genre": "Fairytale",
+      "digest": "First published in 2019"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL138052W",
+    "fields": {
+      "author": "Lewis Carroll",
+      "title": "Alice's Adventures in Wonderland",
+      "genre": "Fantasy",
+      "digest": "First published in 1865"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL24034W",
+    "fields": {
+      "author": "Robert Louis Stevenson",
+      "title": "Treasure Island",
+      "genre": "Fantasy",
+      "digest": "First published in 1880"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL20600W",
+    "fields": {
+      "author": "Jonathan Swift",
+      "title": "Gulliver's Travels",
+      "genre": "Fantasy",
+      "digest": "First published in 1726"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL151406W",
+    "fields": {
+      "author": "Lewis Carroll",
+      "title": "Through the Looking-Glass",
+      "genre": "Fantasy",
+      "digest": "First published in 1871"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL18417W",
+    "fields": {
+      "author": "L. Frank Baum",
+      "title": "The Wonderful Wizard of Oz",
+      "genre": "Fantasy",
+      "digest": "First published in 1900"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL262460W",
+    "fields": {
+      "author": "Arthur Conan Doyle",
+      "title": "The Lost World",
+      "genre": "Fantasy",
+      "digest": "First published in 1900"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL259010W",
+    "fields": {
+      "author": "William Shakespeare, Guillermo Macpherson, Cristina Navarro Muñoz, Eduardo Zamanillo, Antoni Laveda, Ángel Pareja",
+      "title": "A Midsummer Night's Dream",
+      "genre": "Fantasy",
+      "digest": "First published in 1600"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL1089297W",
+    "fields": {
+      "author": "Niccolò Machiavelli",
+      "title": "The Prince",
+      "genre": "Fantasy",
+      "digest": "First published in 1515"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL99499W",
+    "fields": {
+      "author": "Edith Nesbit",
+      "title": "Five Children and It",
+      "genre": "Fantasy",
+      "digest": "First published in 1905"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL151411W",
+    "fields": {
+      "author": "Lewis Carroll",
+      "title": "Alice's Adventures in Wonderland / Through the Looking Glass",
+      "genre": "Fantasy",
+      "digest": "First published in 1889"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL1527356W",
+    "fields": {
+      "author": "Carlo Collodi",
+      "title": "Le avventure di Pinocchio",
+      "genre": "Fantasy",
+      "digest": "First published in 1883"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL1168083W",
+    "fields": {
+      "author": "George Orwell",
+      "title": "Nineteen Eighty-Four",
+      "genre": "Fantasy",
+      "digest": "First published in 1949"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL450063W",
+    "fields": {
+      "author": "Mary Wollstonecraft Shelley",
+      "title": "Frankenstein or The Modern Prometheus",
+      "genre": "Horror",
+      "digest": "First published in 1818"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL8193416W",
+    "fields": {
+      "author": "Oscar Wilde",
+      "title": "The Picture of Dorian Gray",
+      "genre": "Horror",
+      "digest": "First published in 1890"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL85892W",
+    "fields": {
+      "author": "Bram Stoker",
+      "title": "Dracula",
+      "genre": "Horror",
+      "digest": "First published in 1897"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL24156W",
+    "fields": {
+      "author": "Robert Louis Stevenson",
+      "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+      "genre": "Horror",
+      "digest": "First published in 1875"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL2895536W",
+    "fields": {
+      "author": "Joseph Sheridan Le Fanu",
+      "title": "Carmilla",
+      "genre": "Horror",
+      "digest": "First published in 1871"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL3388961W",
+    "fields": {
+      "author": "Arthur Machen",
+      "title": "The Great God Pan",
+      "genre": "Horror",
+      "digest": "First published in 1894"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL262586W",
+    "fields": {
+      "author": "Arthur Conan Doyle",
+      "title": "Tales of Terror and Mystery",
+      "genre": "Horror",
+      "digest": "First published in 1963"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL2288676W",
+    "fields": {
+      "author": "Sax Rohmer",
+      "title": "Brood of the Witch-Queen",
+      "genre": "Horror",
+      "digest": "First published in 1924"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL2700643W",
+    "fields": {
+      "author": "Algernon Blackwood",
+      "title": "The Damned",
+      "genre": "Horror",
+      "digest": "First published in 2002"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL81626W",
+    "fields": {
+      "author": "Stephen King",
+      "title": "Carrie",
+      "genre": "Horror",
+      "digest": "First published in 1974"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL2771987W",
+    "fields": {
+      "author": "Charlotte Perkins Gilman",
+      "title": "Herland",
+      "genre": "Horror",
+      "digest": "First published in 1915"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL81634W",
+    "fields": {
+      "author": "Stephen King, Stephen King",
+      "title": "Misery",
+      "genre": "Horror",
+      "digest": "First published in 1978"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL24034W",
+    "fields": {
+      "author": "Robert Louis Stevenson",
+      "title": "Treasure Island",
+      "genre": "Nonfiction",
+      "digest": "First published in 1880"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL100672W",
+    "fields": {
+      "author": "Voltaire",
+      "title": "Candide",
+      "genre": "Nonfiction",
+      "digest": "First published in 1746"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL51831W",
+    "fields": {
+      "author": "Πλάτων",
+      "title": "πολιτεία",
+      "genre": "Nonfiction",
+      "digest": "First published in 1554"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL258758W",
+    "fields": {
+      "author": "William Shakespeare",
+      "title": "The Merchant of Venice",
+      "genre": "Nonfiction",
+      "digest": "First published in 1600"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL258850W",
+    "fields": {
+      "author": "William Shakespeare",
+      "title": "Othello",
+      "genre": "Nonfiction",
+      "digest": "First published in 1622"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL362702W",
+    "fields": {
+      "author": "William Shakespeare",
+      "title": "Julius Caesar",
+      "genre": "Nonfiction",
+      "digest": "First published in 1684"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL259026W",
+    "fields": {
+      "author": "William Shakespeare",
+      "title": "King Lear",
+      "genre": "Nonfiction",
+      "digest": "First published in 1608"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL259010W",
+    "fields": {
+      "author": "William Shakespeare, Guillermo Macpherson, Cristina Navarro Muñoz, Eduardo Zamanillo, Antoni Laveda, Ángel Pareja",
+      "title": "A Midsummer Night's Dream",
+      "genre": "Nonfiction",
+      "digest": "First published in 1600"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL69181W",
+    "fields": {
+      "author": "Frederick Douglass",
+      "title": "Narrative of the life of Frederick Douglass, an American slave",
+      "genre": "Nonfiction",
+      "digest": "First published in 1845"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL1261147W",
+    "fields": {
+      "author": "Titus Livius",
+      "title": "Ab urbe condita",
+      "genre": "Nonfiction",
+      "digest": "First published in 1481"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL55649W",
+    "fields": {
+      "author": "Henry David Thoreau",
+      "title": "Walden",
+      "genre": "Nonfiction",
+      "digest": "First published in 1854"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL1068091W",
+    "fields": {
+      "author": "John Stuart Mill",
+      "title": "On Liberty",
+      "genre": "Nonfiction",
+      "digest": "First published in 1859"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL3962792W",
+    "fields": {
+      "author": "Mitchell Sharmat",
+      "title": "Gregory The Terrible Eater",
+      "genre": "Picture",
+      "digest": "First published in 1980"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL83092W",
+    "fields": {
+      "author": "Joanna Cole",
+      "title": "Golly Gump Swallowed a Fly",
+      "genre": "Picture",
+      "digest": "First published in 1981"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL1988937W",
+    "fields": {
+      "author": "Patricia Grossman",
+      "title": "Disney's The Lion King ROAR! [1997]",
+      "genre": "Picture",
+      "digest": "First published in 1997"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL83071W",
+    "fields": {
+      "author": "Joanna Cole, Mary Pope Osborne",
+      "title": "Sweet Dreams, Clown-Arounds!",
+      "genre": "Picture",
+      "digest": "First published in 1985"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL4470211W",
+    "fields": {
+      "author": "Margaret Friskey (1901-1995)",
+      "title": "Shoe For My Pony",
+      "genre": "Picture",
+      "digest": "First published in 1950"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL4975043W",
+    "fields": {
+      "author": "Jocelyn Stevenson",
+      "title": "The Muppets Go Camping",
+      "genre": "Picture",
+      "digest": "First published in 1981"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL15400758W",
+    "fields": {
+      "author": "Charles M. Schulz",
+      "title": "Charlie Brown's 'Cyclopedia Volume 3",
+      "genre": "Picture",
+      "digest": "First published in 1000"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL15164693W",
+    "fields": {
+      "author": "Walt Disney",
+      "title": "Walt Disney's Bambi",
+      "genre": "Picture",
+      "digest": "First published in 1982"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL81693W",
+    "fields": {
+      "author": "Jan Wahl",
+      "title": "Sylvester Bear Overslept",
+      "genre": "Picture",
+      "digest": "First published in 1979"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL1940453W",
+    "fields": {
+      "author": "Sue Ann Alderson",
+      "title": "bonnie mcsmithers you're driving me dithers",
+      "genre": "Picture",
+      "digest": "First published in 1974"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL15829412W",
+    "fields": {
+      "author": "Stan Berenstain",
+      "title": "The Berenstain Bears Get the Gimmies",
+      "genre": "Picture",
+      "digest": "First published in 1988"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL3900777W",
+    "fields": {
+      "author": "Susan Alton Schmeltz",
+      "title": "Oh, So Silly!",
+      "genre": "Picture",
+      "digest": "First published in 1983"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL1890616W",
+    "fields": {
+      "author": "Paul Owen Lewis",
+      "title": "You are cordially invited to P. Bear's New Year's party!",
+      "genre": "Picturebooks",
+      "digest": "First published in 1989"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL66554W",
+    "fields": {
+      "author": "Jane Austen",
+      "title": "Pride and Prejudice",
+      "genre": "Romance",
+      "digest": "First published in 1602"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL66513W",
+    "fields": {
+      "author": "Jane Austen",
+      "title": "Emma",
+      "genre": "Romance",
+      "digest": "First published in 1815"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL21177W",
+    "fields": {
+      "author": "Emily Brontë",
+      "title": "Wuthering Heights",
+      "genre": "Romance",
+      "digest": "First published in 1847"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL66562W",
+    "fields": {
+      "author": "Jane Austen",
+      "title": "Sense and Sensibility",
+      "genre": "Romance",
+      "digest": "First published in 1811"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL29983W",
+    "fields": {
+      "author": "Louisa May Alcott",
+      "title": "Little Women",
+      "genre": "Romance",
+      "digest": "First published in 1848"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL98501W",
+    "fields": {
+      "author": "Edith Wharton",
+      "title": "Ethan Frome",
+      "genre": "Romance",
+      "digest": "First published in 1910"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL66534W",
+    "fields": {
+      "author": "Jane Austen",
+      "title": "Northanger Abbey",
+      "genre": "Romance",
+      "digest": "First published in 1818"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL36287W",
+    "fields": {
+      "author": "Alexandre Dumas",
+      "title": "Le Comte de Monte Cristo",
+      "genre": "Romance",
+      "digest": "First published in 1830"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL152161W",
+    "fields": {
+      "author": "Harriet Beecher Stowe",
+      "title": "Uncle Tom's Cabin",
+      "genre": "Romance",
+      "digest": "First published in 1850"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL176092W",
+    "fields": {
+      "author": "Wilkie Collins, Pieter Koster, Sandra Kemp, Andronum",
+      "title": "The Moonstone",
+      "genre": "Romance",
+      "digest": "First published in 1868"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL81294W",
+    "fields": {
+      "author": "David Herbert Lawrence",
+      "title": "Women in Love",
+      "genre": "Romance",
+      "digest": "First published in 1877"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL468488W",
+    "fields": {
+      "author": "F. Scott Fitzgerald",
+      "title": "This Side of Paradise",
+      "genre": "Romance",
+      "digest": "First published in 1920"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL17356810W",
+    "fields": {
+      "author": "Jasmine Warga",
+      "title": "My Heart and Other Black Holes",
+      "genre": "young-adult",
+      "digest": "First published in 2015"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL27172742W",
+    "fields": {
+      "author": "Stephanie Garber",
+      "title": "Ballad of Never After",
+      "genre": "young-adult",
+      "digest": "First published in 2022"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL17313694W",
+    "fields": {
+      "author": "David Kudler",
+      "title": "Risuko",
+      "genre": "young-adult",
+      "digest": "First published in 2016"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL19265401W",
+    "fields": {
+      "author": "Núria Añó",
+      "title": "La mirada del hijo",
+      "genre": "young-adult",
+      "digest": "First published in 2019"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL17922858W",
+    "fields": {
+      "author": "Nande Orcel",
+      "title": "Secret of Omordion",
+      "genre": "young-adult",
+      "digest": "First published in 2017"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL17922863W",
+    "fields": {
+      "author": "Nande Orcel",
+      "title": "Rise of Jmugea",
+      "genre": "young-adult",
+      "digest": "First published in 2018"
+    }
+  },
+  {
+    "put": "id:mynamespace:book::OL10643781M",
+    "fields": {
+      "author": "",
+      "title": "Roaring Twenties and the Depression",
+      "genre": "young-adult",
+      "digest": "First published in 1988"
+    }
+  }
+
+
+
+
+
+
+
+
+
+
